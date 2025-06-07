@@ -17,6 +17,7 @@ This repository contains Jupyter notebooks for various applications such as summ
 | 🧪 **LLM with Gradio** | Builds a simple Gradio-based interface for interacting with an LLM in real-time. |
 | 🏢 **Company Brochure Generator** | Automatically creates professional brochures using company details and branding assets. |
 | ✈️ **FlightAI Assistant** | AI airline assistant that checks flight prices via tool calls in a chat interface. |
+| 🛠️ **Basic RAG Implementation** | Demonstrates Retrieval-Augmented Generation (RAG) with document retrieval and LLM responses. |
 
 
 ---
