@@ -19,6 +19,7 @@ This repository contains Jupyter notebooks for various applications such as summ
 | ✈️ **FlightAI Assistant** | AI airline assistant that checks flight prices via tool calls in a chat interface. |
 | 🛠️ **Basic RAG Implementation** | Demonstrates Retrieval-Augmented Generation (RAG) with document retrieval and LLM responses. |
 | 🔍 RAG Query Transformation | Advanced retrieval techniques for LLMs using multi-query generation & reciprocal rank fusion (RRF) |
+| 🧠 **Keyword-Based Contextual Chatbot** | Uses filename keyword matching to add relevant context from documents before querying an LLM via a Gradio chat interface. |
 
 
 ---
