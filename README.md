@@ -21,6 +21,8 @@ This repository contains Jupyter notebooks for various applications such as summ
 | 🔍 **RAG Query Transformation** | Advanced retrieval techniques for LLMs using multi-query generation & reciprocal rank fusion (RRF) |
 | 🧠 **Keyword-Based Contextual Chatbot** | Uses filename keyword matching to add relevant context from documents before querying an LLM via a Gradio chat interface. |
 | 📂 **LangChain Basics – Document Preparation** | Loads, tags, and splits markdown documents using LangChain to prepare data for RAG workflows. |
+| 🏢 **Company CSR Question Answer Retriever** | Answers natural language queries from CSR PDFs using OpenAI embeddings, Chroma DB, and GPT-4o. (Available in UnitedWay Folder) |
+
 
 
 ---
