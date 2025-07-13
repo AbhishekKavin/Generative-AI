@@ -22,6 +22,8 @@ This repository contains Jupyter notebooks for various applications such as summ
 | 🧠 **Keyword-Based Contextual Chatbot** | Uses filename keyword matching to add relevant context from documents before querying an LLM via a Gradio chat interface. |
 | 📂 **LangChain Basics – Document Preparation** | Loads, tags, and splits markdown documents using LangChain to prepare data for RAG workflows. |
 | 🏢 **Company CSR Question Answer Retriever** | Answers natural language queries from CSR PDFs using OpenAI embeddings, Chroma DB, and GPT-4o. (Available in UnitedWay Folder) |
+| 🧠 **Agentic AI with ReAct Pattern** | Demonstrates an LLM-driven agent that reasons, selects tools, and acts using the ReAct (Reasoning + Acting) framework. |
+
 
 
 
